@@ -1,3 +1,4 @@
+#initialization 
 drop schema EV;
 create schema EV;
 
@@ -64,7 +65,6 @@ SELECT
 FROM electric_vehicle_population_data
 GROUP BY make, model
 ORDER BY Make;
-
 
 #Clean Alternative Fuel Vehicle (CAFV) Eligibility analysis base on the manufacture
 SELECT 
