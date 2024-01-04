@@ -1,2 +1,2 @@
-# Data-Analytics-Project
+# Data-Project
 DataCamp Projects
