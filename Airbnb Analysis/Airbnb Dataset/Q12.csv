@@ -1,0 +1,182 @@
+NEIGHBOURHOOD,ROOM_TYPE,AVG(A.PRICE),NUMBER_OF_AIRBNB
+Alki,Entire home/apt,195.78947368,6935
+Alki,Private room,200.75000000,1460
+Arbor Heights,Entire home/apt,150.00000000,730
+Arbor Heights,Private room,54.00000000,365
+Atlantic,Private room,67.87500000,5840
+Atlantic,Entire home/apt,139.05882353,12410
+Ballard,Private room,67.93333333,27375
+Ballard,Entire home/apt,153.87681159,50370
+Belltown,Shared room,58.33333333,1095
+Belltown,Entire home/apt,172.18750000,70080
+Belltown,Private room,84.11111111,3285
+Bitter Lake,Private room,75.55555556,3285
+Bitter Lake,Entire home/apt,86.25000000,1460
+Brighton,Entire home/apt,95.00000000,1095
+Brighton,Shared room,40.00000000,365
+Brighton,Private room,65.00000000,365
+Broadview,Private room,64.66666667,2190
+Broadview,Entire home/apt,125.80000000,3650
+Broadway,Private room,75.00000000,365
+Broadway,Entire home/apt,141.75000000,1460
+Bryant,Private room,57.41666667,4380
+Bryant,Entire home/apt,132.75000000,7300
+Capitol Hill,Entire home/apt,145.34285714,89425
+Capitol Hill,Private room,90.26190476,30660
+Capitol Hill,Shared room,53.95454545,8030
+Cedar Park,Entire home/apt,135.60000000,1825
+Cedar Park,Private room,75.66666667,1095
+Central Business District,Private room,152.75000000,1460
+Central Business District,Shared room,52.50000000,730
+Central Business District,Entire home/apt,167.28000000,27375
+Columbia City,Entire home/apt,126.30769231,14235
+Columbia City,Private room,63.18181818,8030
+Crown Hill,Entire home/apt,99.62500000,2920
+Crown Hill,Private room,65.76923077,4745
+Dunlap,Shared room,67.50000000,730
+Dunlap,Entire home/apt,103.50000000,1460
+Dunlap,Private room,61.71428571,2555
+Eastlake,Private room,84.30000000,3650
+Eastlake,Entire home/apt,114.40000000,10950
+Eastlake,Shared room,50.00000000,365
+Fairmount Park,Entire home/apt,370.00000000,365
+Fauntleroy,Private room,79.50000000,1460
+Fauntleroy,Entire home/apt,220.50000000,2190
+First Hill,Entire home/apt,146.23863636,32120
+First Hill,Private room,97.08333333,4380
+First Hill,Shared room,51.00000000,1825
+Fremont,Private room,74.32500000,14600
+Fremont,Shared room,53.33333333,1095
+Fremont,Entire home/apt,154.29523810,38325
+Gatewood,Entire home/apt,172.50000000,2920
+Gatewood,Private room,82.80000000,3650
+Genesee,Private room,62.00000000,4015
+Genesee,Shared room,30.00000000,365
+Genesee,Entire home/apt,178.00000000,6205
+Georgetown,Private room,73.33333333,2190
+Georgetown,Entire home/apt,99.00000000,365
+Green Lake,Private room,68.50000000,5110
+Green Lake,Entire home/apt,183.65789474,13870
+Greenwood,Shared room,25.00000000,365
+Greenwood,Entire home/apt,117.81395349,15695
+Greenwood,Private room,73.57142857,12775
+Haller Lake,Private room,65.25000000,1460
+Haller Lake,Entire home/apt,130.30000000,3650
+Harrison/Denny-Blaine,Entire home/apt,110.28571429,2555
+Harrison/Denny-Blaine,Private room,113.50000000,2190
+High Point,Private room,89.20000000,3650
+High Point,Entire home/apt,99.00000000,365
+Highland Park,Private room,77.83333333,2190
+Highland Park,Entire home/apt,91.16666667,2190
+Holly Park,Private room,52.00000000,1825
+Holly Park,Entire home/apt,215.00000000,365
+Industrial District,Private room,150.00000000,365
+Industrial District,Entire home/apt,292.50000000,730
+Interbay,Entire home/apt,123.50000000,1460
+Interbay,Private room,73.33333333,1095
+International District,Private room,85.33333333,2190
+International District,Entire home/apt,134.00000000,3285
+International District,Shared room,40.00000000,730
+Laurelhurst,Entire home/apt,142.00000000,1825
+Laurelhurst,Private room,68.50000000,1460
+Leschi,Entire home/apt,186.64000000,9125
+Leschi,Private room,69.57894737,6935
+Licton Springs,Entire home/apt,124.66666667,1095
+Licton Springs,Private room,75.44444444,3285
+Lower Queen Anne,Entire home/apt,152.68656716,24455
+Lower Queen Anne,Shared room,38.00000000,365
+Lower Queen Anne,Private room,104.40000000,5475
+Madison Park,Private room,106.66666667,1095
+Madison Park,Shared room,30.00000000,365
+Madison Park,Entire home/apt,162.75000000,4380
+Madrona,Entire home/apt,184.48000000,9125
+Madrona,Private room,77.33333333,5475
+Magnolia,Entire home/apt,229.00000000,13505
+Magnolia,Private room,67.05555556,6570
+Maple Leaf,Shared room,34.00000000,1095
+Maple Leaf,Private room,64.23529412,6205
+Maple Leaf,Entire home/apt,102.95238095,7665
+Mathews Beach,Entire home/apt,135.77777778,3285
+Mathews Beach,Private room,65.50000000,2920
+Meadowbrook,Private room,53.00000000,1460
+Meadowbrook,Entire home/apt,135.20000000,1825
+Minor,Shared room,55.00000000,1460
+Minor,Private room,80.54166667,26280
+Minor,Entire home/apt,163.77586207,42340
+Montlake,Entire home/apt,262.33333333,4380
+Montlake,Private room,82.14285714,2555
+Mount Baker,Entire home/apt,120.68000000,9125
+Mount Baker,Private room,64.42857143,7665
+North Admiral,Private room,99.76470588,6205
+North Admiral,Entire home/apt,177.83870968,11315
+North Beach/Blue Ridge,Entire home/apt,145.22222222,3285
+North Beach/Blue Ridge,Private room,80.00000000,730
+North Beacon Hill,Entire home/apt,117.64583333,17520
+North Beacon Hill,Shared room,43.33333333,1095
+North Beacon Hill,Private room,68.75000000,16060
+North College Park,Entire home/apt,99.00000000,365
+North Delridge,Entire home/apt,101.31250000,5840
+North Delridge,Private room,53.36363636,4015
+Olympic Hills,Entire home/apt,94.00000000,730
+Olympic Hills,Private room,57.60000000,3650
+Phinney Ridge,Private room,78.25000000,5840
+Phinney Ridge,Entire home/apt,150.57500000,14600
+Pike Market,Entire home/apt,92.00000000,730
+Pike Place Market,Private room,112.50000000,730
+Pike Place Market,Shared room,39.50000000,730
+Pike Place Market,Entire home/apt,186.88571429,12775
+Pinehurst,Entire home/apt,138.00000000,1095
+Pioneer Square,Entire home/apt,164.70000000,3650
+Pioneer Square,Shared room,62.50000000,730
+Pioneer Square,Private room,134.50000000,730
+Portage Bay,Entire home/apt,263.33333333,4380
+Portage Bay,Private room,110.00000000,730
+Queen Anne,Shared room,39.00000000,365
+Queen Anne,Private room,89.74418605,15695
+Queen Anne,Entire home/apt,193.43356643,52195
+Rainier Beach,Private room,59.60000000,5475
+Rainier Beach,Entire home/apt,162.33333333,1095
+Ravenna,Entire home/apt,159.10000000,10950
+Ravenna,Private room,57.44827586,10585
+Riverview,Entire home/apt,86.80000000,1825
+Riverview,Private room,61.66666667,1095
+Roosevelt,Entire home/apt,123.00000000,6935
+Roosevelt,Shared room,56.00000000,1095
+Roosevelt,Private room,75.20000000,1825
+Roxhill,Private room,60.00000000,365
+Seaview,Entire home/apt,152.66666667,2190
+Seaview,Private room,66.00000000,1095
+Seward Park,Private room,47.93333333,5475
+Seward Park,Entire home/apt,143.23529412,6205
+South Beacon Hill,Entire home/apt,117.50000000,730
+South Delridge,Private room,70.00000000,365
+South Delridge,Entire home/apt,95.00000000,2190
+South Lake Union,Private room,133.75000000,1460
+South Lake Union,Entire home/apt,158.94117647,6205
+South Park,Entire home/apt,102.50000000,730
+Stevens,Shared room,34.78571429,5110
+Stevens,Private room,100.50000000,12410
+Stevens,Entire home/apt,164.94000000,18250
+The Junction,Private room,73.60000000,3650
+The Junction,Entire home/apt,128.53846154,9490
+University District,Entire home/apt,115.77777778,26280
+University District,Private room,53.42307692,9490
+University District,Shared room,53.88888889,3285
+Victory Heights,Entire home/apt,89.66666667,2190
+Victory Heights,Private room,75.00000000,2555
+View Ridge,Entire home/apt,166.00000000,1460
+View Ridge,Private room,99.50000000,730
+Wallingford,Shared room,40.83333333,4380
+Wallingford,Entire home/apt,165.26804124,35405
+Wallingford,Private room,66.47058824,12410
+Wedgewood,Entire home/apt,166.16666667,2190
+Wedgewood,Private room,67.00000000,3285
+Westlake,Entire home/apt,294.16666667,2190
+Westlake,Private room,99.83333333,2190
+Windermere,Entire home/apt,189.37500000,2920
+Windermere,Private room,116.00000000,730
+Yesler Terrace,Entire home/apt,160.55555556,3285
+Yesler Terrace,Private room,82.66666667,1095
+,Private room,65.52857143,51100
+,Shared room,48.84210526,6935
+,Entire home/apt,150.54085603,93805

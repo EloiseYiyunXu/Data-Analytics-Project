@@ -1,0 +1,309 @@
+NEIGHBOURHOOD,PROPERTY_TYPE,PRICE_RANGE
+Alki,House,320.00
+Alki,Apartment,124.00
+Alki,Townhouse,32.00
+Alki,Loft,0.00
+Arbor Heights,House,146.00
+Atlantic,House,245.00
+Atlantic,Condominium,110.00
+Atlantic,Apartment,90.00
+Atlantic,Townhouse,60.00
+Atlantic,Loft,0.00
+Atlantic,Bungalow,0.00
+Atlantic,Cabin,0.00
+Ballard,House,450.00
+Ballard,Apartment,261.00
+Ballard,Townhouse,230.00
+Ballard,Condominium,75.00
+Ballard,Bungalow,40.00
+Ballard,Bed & Breakfast,15.00
+Ballard,Loft,0.00
+Ballard,Boat,0.00
+Ballard,Cabin,0.00
+Ballard,Camper/RV,0.00
+Belltown,Apartment,964.00
+Belltown,Condominium,601.00
+Belltown,Loft,120.00
+Belltown,House,0.00
+Belltown,Bed & Breakfast,0.00
+Bitter Lake,House,131.00
+Bitter Lake,Apartment,45.00
+Brighton,House,40.00
+Brighton,Apartment,35.00
+Broadview,House,156.00
+Broadview,Apartment,76.00
+Broadway,House,85.00
+Broadway,Apartment,0.00
+Broadway,Condominium,0.00
+Bryant,House,205.00
+Bryant,Townhouse,49.00
+Bryant,Apartment,45.00
+Bryant,Bungalow,0.00
+Bryant,Loft,0.00
+Capitol Hill,House,633.00
+Capitol Hill,Apartment,575.00
+Capitol Hill,Townhouse,172.00
+Capitol Hill,Condominium,151.00
+Capitol Hill,Cabin,111.00
+Capitol Hill,Loft,0.00
+Capitol Hill,Bed & Breakfast,0.00
+Cedar Park,House,195.00
+Cedar Park,Bed & Breakfast,0.00
+Cedar Park,Apartment,0.00
+Central Business District,Apartment,325.00
+Central Business District,Condominium,60.00
+Central Business District,Other,49.00
+Columbia City,House,265.00
+Columbia City,Apartment,225.00
+Columbia City,Cabin,14.00
+Columbia City,Loft,5.00
+Columbia City,Townhouse,0.00
+Crown Hill,House,84.00
+Crown Hill,Bed & Breakfast,5.00
+Crown Hill,Boat,0.00
+Dunlap,House,114.00
+Dunlap,Apartment,50.00
+Dunlap,Treehouse,0.00
+Dunlap,,0.00
+Eastlake,Apartment,153.00
+Eastlake,House,76.00
+Eastlake,Condominium,0.00
+Fairmount Park,House,0.00
+Fauntleroy,House,420.00
+Fauntleroy,Apartment,7.00
+First Hill,Apartment,475.00
+First Hill,Condominium,184.00
+First Hill,Bed & Breakfast,0.00
+Fremont,House,455.00
+Fremont,Apartment,224.00
+Fremont,Townhouse,85.00
+Fremont,Loft,46.00
+Fremont,Cabin,20.00
+Fremont,Camper/RV,0.00
+Fremont,Bed & Breakfast,0.00
+Fremont,Condominium,0.00
+Fremont,Other,0.00
+Gatewood,House,268.00
+Gatewood,Apartment,10.00
+Gatewood,Townhouse,0.00
+Genesee,House,336.00
+Genesee,Apartment,135.00
+Genesee,Townhouse,71.00
+Georgetown,House,40.00
+Georgetown,Other,0.00
+Georgetown,Loft,0.00
+Green Lake,House,510.00
+Green Lake,Apartment,410.00
+Green Lake,Townhouse,0.00
+Greenwood,House,262.00
+Greenwood,Apartment,95.00
+Greenwood,Condominium,64.00
+Greenwood,Townhouse,29.00
+Greenwood,Bungalow,0.00
+Greenwood,Chalet,0.00
+Greenwood,Tent,0.00
+Haller Lake,House,125.00
+Haller Lake,Apartment,25.00
+Haller Lake,Cabin,0.00
+Haller Lake,Townhouse,0.00
+Haller Lake,Bed & Breakfast,0.00
+Harrison/Denny-Blaine,House,118.00
+Harrison/Denny-Blaine,Apartment,94.00
+High Point,Apartment,201.00
+High Point,House,58.00
+High Point,Townhouse,21.00
+Highland Park,House,95.00
+Highland Park,Apartment,0.00
+Highland Park,Townhouse,0.00
+Holly Park,House,170.00
+Holly Park,Townhouse,10.00
+Industrial District,Other,0.00
+Industrial District,Camper/RV,0.00
+Industrial District,Loft,0.00
+Interbay,Apartment,75.00
+Interbay,House,75.00
+Interbay,Boat,0.00
+Interbay,Condominium,0.00
+Interbay,Loft,0.00
+International District,Apartment,185.00
+International District,House,0.00
+International District,Other,0.00
+International District,Loft,0.00
+Laurelhurst,House,145.00
+Laurelhurst,Apartment,125.00
+Laurelhurst,Cabin,0.00
+Leschi,House,456.00
+Leschi,Townhouse,155.00
+Leschi,Apartment,120.00
+Leschi,Bed & Breakfast,0.00
+Licton Springs,House,139.00
+Licton Springs,Apartment,0.00
+Lower Queen Anne,Townhouse,388.00
+Lower Queen Anne,Apartment,237.00
+Lower Queen Anne,House,203.00
+Lower Queen Anne,Condominium,83.00
+Lower Queen Anne,Camper/RV,0.00
+Lower Queen Anne,Loft,0.00
+Madison Park,Condominium,145.00
+Madison Park,House,135.00
+Madison Park,Apartment,109.00
+Madrona,House,450.00
+Madrona,Apartment,59.00
+Madrona,Loft,6.00
+Madrona,Other,0.00
+Madrona,Townhouse,0.00
+Magnolia,House,910.00
+Magnolia,Apartment,509.00
+Magnolia,Townhouse,300.00
+Magnolia,Condominium,0.00
+Magnolia,Bed & Breakfast,0.00
+Maple Leaf,House,163.00
+Maple Leaf,Apartment,107.00
+Maple Leaf,Condominium,0.00
+Maple Leaf,Tent,0.00
+Maple Leaf,Camper/RV,0.00
+Maple Leaf,Other,0.00
+Mathews Beach,House,209.00
+Mathews Beach,Apartment,26.00
+Meadowbrook,House,203.00
+Meadowbrook,Cabin,0.00
+Minor,Townhouse,400.00
+Minor,House,352.00
+Minor,Loft,315.00
+Minor,Apartment,178.00
+Minor,Condominium,150.00
+Minor,Cabin,4.00
+Minor,Bungalow,0.00
+Montlake,House,695.00
+Montlake,Apartment,24.00
+Montlake,Treehouse,0.00
+Mount Baker,House,261.00
+Mount Baker,Apartment,105.00
+Mount Baker,Bed & Breakfast,14.00
+Mount Baker,Camper/RV,0.00
+North Admiral,House,396.00
+North Admiral,Condominium,396.00
+North Admiral,Bed & Breakfast,233.00
+North Admiral,Apartment,136.00
+North Admiral,Cabin,0.00
+North Admiral,Yurt,0.00
+North Admiral,Townhouse,0.00
+North Admiral,Chalet,0.00
+North Beach/Blue Ridge,House,226.00
+North Beach/Blue Ridge,Apartment,0.00
+North Beach/Blue Ridge,Bungalow,0.00
+North Beacon Hill,House,374.00
+North Beacon Hill,Townhouse,210.00
+North Beacon Hill,Apartment,104.00
+North Beacon Hill,Cabin,37.00
+North Beacon Hill,Loft,1.00
+North Beacon Hill,Tent,0.00
+North Beacon Hill,Bed & Breakfast,0.00
+North Beacon Hill,Bungalow,0.00
+North College Park,House,0.00
+North Delridge,House,215.00
+North Delridge,Apartment,79.00
+North Delridge,Townhouse,0.00
+Olympic Hills,House,53.00
+Olympic Hills,Apartment,0.00
+Phinney Ridge,House,350.00
+Phinney Ridge,Apartment,115.00
+Phinney Ridge,Condominium,0.00
+Phinney Ridge,Bed & Breakfast,0.00
+Phinney Ridge,Other,0.00
+Pike Market,Apartment,14.00
+Pike Place Market,Apartment,481.00
+Pike Place Market,Condominium,262.00
+Pike Place Market,Dorm,3.00
+Pinehurst,Apartment,11.00
+Pinehurst,House,0.00
+Pioneer Square,Apartment,200.00
+Pioneer Square,Condominium,45.00
+Pioneer Square,Loft,0.00
+Portage Bay,House,660.00
+Portage Bay,Apartment,81.00
+Portage Bay,Cabin,0.00
+Portage Bay,Condominium,0.00
+Queen Anne,House,930.00
+Queen Anne,Apartment,280.00
+Queen Anne,Bungalow,239.00
+Queen Anne,Condominium,220.00
+Queen Anne,Townhouse,70.00
+Queen Anne,Camper/RV,15.00
+Queen Anne,Cabin,0.00
+Queen Anne,Loft,0.00
+Queen Anne,Bed & Breakfast,0.00
+Queen Anne,Boat,0.00
+Rainier Beach,House,163.00
+Rainier Beach,Other,0.00
+Ravenna,House,972.00
+Ravenna,Other,49.00
+Ravenna,Apartment,48.00
+Ravenna,Bed & Breakfast,0.00
+Riverview,House,74.00
+Riverview,Apartment,25.00
+Roosevelt,House,211.00
+Roosevelt,Apartment,69.00
+Roosevelt,Townhouse,32.00
+Roosevelt,Bed & Breakfast,0.00
+Roxhill,House,0.00
+Seaview,House,141.00
+Seaview,Apartment,0.00
+Seward Park,House,341.00
+Seward Park,Apartment,89.00
+Seward Park,Bed & Breakfast,6.00
+South Beacon Hill,House,115.00
+South Delridge,House,80.00
+South Delridge,Apartment,0.00
+South Delridge,Bed & Breakfast,0.00
+South Lake Union,Apartment,475.00
+South Lake Union,Condominium,31.00
+South Lake Union,Loft,0.00
+South Park,House,5.00
+Stevens,House,423.00
+Stevens,Apartment,205.00
+Stevens,Townhouse,200.00
+Stevens,Bed & Breakfast,60.00
+Stevens,Other,0.00
+Stevens,Bungalow,0.00
+The Junction,House,241.00
+The Junction,Townhouse,121.00
+The Junction,Apartment,61.00
+University District,House,320.00
+University District,Apartment,278.00
+University District,Condominium,90.00
+University District,Townhouse,52.00
+University District,Other,0.00
+Victory Heights,House,150.00
+Victory Heights,Apartment,55.00
+View Ridge,House,94.00
+View Ridge,Apartment,5.00
+View Ridge,Loft,0.00
+Wallingford,House,535.00
+Wallingford,Apartment,136.00
+Wallingford,Loft,25.00
+Wedgewood,House,251.00
+Wedgewood,Townhouse,0.00
+Wedgewood,Loft,0.00
+Wedgewood,Apartment,0.00
+Westlake,Boat,625.00
+Westlake,Apartment,335.00
+Westlake,House,0.00
+Westlake,Condominium,0.00
+Windermere,House,315.00
+Windermere,Apartment,90.00
+Yesler Terrace,Apartment,161.00
+Yesler Terrace,Condominium,110.00
+Yesler Terrace,House,0.00
+,House,574.00
+,Boat,431.00
+,Camper/RV,300.00
+,Loft,275.00
+,Apartment,260.00
+,Townhouse,137.00
+,Condominium,100.00
+,Other,60.00
+,Bed & Breakfast,15.00
+,Cabin,0.00
+,Treehouse,0.00
+,Bungalow,0.00

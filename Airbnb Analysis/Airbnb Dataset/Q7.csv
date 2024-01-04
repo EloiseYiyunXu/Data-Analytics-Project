@@ -1,0 +1,309 @@
+NEIGHBOURHOOD,PROPERTY_TYPE,MEDIAN_PRICE
+Alki,House,235.00000
+Alki,Townhouse,234.00000
+Alki,Loft,225.00000
+Alki,Apartment,100.00000
+Arbor Heights,House,100.00000
+Atlantic,Loft,170.00000
+Atlantic,Townhouse,137.00000
+Atlantic,Condominium,120.00000
+Atlantic,House,115.00000
+Atlantic,Cabin,95.00000
+Atlantic,Apartment,87.50000
+Atlantic,Bungalow,70.00000
+Ballard,Loft,115.00000
+Ballard,Condominium,107.50000
+Ballard,Apartment,99.50000
+Ballard,House,95.00000
+Ballard,Cabin,89.00000
+Ballard,Bungalow,85.00000
+Ballard,Bed & Breakfast,84.50000
+Ballard,Townhouse,77.00000
+Ballard,Boat,75.00000
+Ballard,Camper/RV,75.00000
+Belltown,House,170.00000
+Belltown,Loft,157.00000
+Belltown,Condominium,155.00000
+Belltown,Apartment,139.00000
+Belltown,Bed & Breakfast,90.00000
+Bitter Lake,House,77.00000
+Bitter Lake,Apartment,64.00000
+Brighton,House,105.00000
+Brighton,Apartment,57.50000
+Broadview,House,112.50000
+Broadview,Apartment,83.00000
+Broadway,Apartment,175.00000
+Broadway,House,147.00000
+Broadway,Condominium,85.00000
+Bryant,House,95.00000
+Bryant,Loft,94.00000
+Bryant,Apartment,85.00000
+Bryant,Townhouse,84.50000
+Bryant,Bungalow,79.00000
+Capitol Hill,Townhouse,235.00000
+Capitol Hill,Cabin,154.50000
+Capitol Hill,Loft,150.00000
+Capitol Hill,Condominium,110.00000
+Capitol Hill,Apartment,110.00000
+Capitol Hill,Bed & Breakfast,99.00000
+Capitol Hill,House,89.50000
+Cedar Park,House,99.50000
+Cedar Park,Bed & Breakfast,92.00000
+Cedar Park,Apartment,70.00000
+Central Business District,Apartment,147.00000
+Central Business District,Other,132.00000
+Central Business District,Condominium,110.00000
+Columbia City,Cabin,92.00000
+Columbia City,House,90.00000
+Columbia City,Apartment,90.00000
+Columbia City,Loft,87.50000
+Columbia City,Townhouse,69.00000
+Crown Hill,Boat,150.00000
+Crown Hill,House,75.00000
+Crown Hill,Bed & Breakfast,65.00000
+Dunlap,,120.00000
+Dunlap,Apartment,70.00000
+Dunlap,House,68.00000
+Dunlap,Treehouse,48.00000
+Eastlake,Condominium,129.00000
+Eastlake,House,115.00000
+Eastlake,Apartment,100.00000
+Fairmount Park,House,370.00000
+Fauntleroy,House,147.00000
+Fauntleroy,Apartment,83.50000
+First Hill,Condominium,140.00000
+First Hill,Apartment,129.00000
+First Hill,Bed & Breakfast,99.00000
+Fremont,Bed & Breakfast,185.00000
+Fremont,House,129.00000
+Fremont,Other,120.00000
+Fremont,Condominium,112.00000
+Fremont,Apartment,102.50000
+Fremont,Loft,102.00000
+Fremont,Cabin,85.00000
+Fremont,Camper/RV,82.00000
+Fremont,Townhouse,81.50000
+Gatewood,House,95.00000
+Gatewood,Apartment,80.00000
+Gatewood,Townhouse,45.00000
+Genesee,Townhouse,114.50000
+Genesee,House,110.00000
+Genesee,Apartment,87.00000
+Georgetown,Loft,99.00000
+Georgetown,Other,75.00000
+Georgetown,House,70.00000
+Green Lake,Townhouse,325.00000
+Green Lake,House,140.00000
+Green Lake,Apartment,109.00000
+Greenwood,Townhouse,124.50000
+Greenwood,Apartment,92.50000
+Greenwood,Bungalow,90.00000
+Greenwood,House,85.00000
+Greenwood,Condominium,83.00000
+Greenwood,Chalet,62.00000
+Greenwood,Tent,25.00000
+Haller Lake,House,119.00000
+Haller Lake,Apartment,112.50000
+Haller Lake,Cabin,100.00000
+Haller Lake,Bed & Breakfast,70.00000
+Haller Lake,Townhouse,36.00000
+Harrison/Denny-Blaine,House,113.50000
+Harrison/Denny-Blaine,Apartment,105.00000
+High Point,Apartment,199.50000
+High Point,House,72.00000
+High Point,Townhouse,62.50000
+Highland Park,Apartment,120.00000
+Highland Park,House,70.00000
+Highland Park,Townhouse,53.00000
+Holly Park,Townhouse,55.00000
+Holly Park,House,52.50000
+Industrial District,Loft,320.00000
+Industrial District,Camper/RV,265.00000
+Industrial District,Other,150.00000
+Interbay,Condominium,150.00000
+Interbay,House,112.50000
+Interbay,Boat,95.00000
+Interbay,Apartment,87.50000
+Interbay,Loft,69.00000
+International District,House,159.00000
+International District,Apartment,89.50000
+International District,Loft,89.00000
+International District,Other,40.00000
+Laurelhurst,House,112.00000
+Laurelhurst,Cabin,100.00000
+Laurelhurst,Apartment,80.00000
+Leschi,Bed & Breakfast,125.00000
+Leschi,House,105.00000
+Leschi,Apartment,85.00000
+Leschi,Townhouse,67.50000
+Licton Springs,Apartment,100.00000
+Licton Springs,House,70.00000
+Lower Queen Anne,Loft,190.00000
+Lower Queen Anne,House,165.00000
+Lower Queen Anne,Camper/RV,145.00000
+Lower Queen Anne,Townhouse,134.50000
+Lower Queen Anne,Apartment,120.00000
+Lower Queen Anne,Condominium,99.00000
+Madison Park,House,205.00000
+Madison Park,Condominium,142.50000
+Madison Park,Apartment,87.50000
+Madrona,Townhouse,155.00000
+Madrona,House,125.00000
+Madrona,Apartment,92.50000
+Madrona,Other,85.00000
+Madrona,Loft,82.00000
+Magnolia,Condominium,280.00000
+Magnolia,Townhouse,187.50000
+Magnolia,House,129.00000
+Magnolia,Apartment,120.00000
+Magnolia,Bed & Breakfast,120.00000
+Maple Leaf,Other,130.00000
+Maple Leaf,Apartment,79.50000
+Maple Leaf,House,69.00000
+Maple Leaf,Condominium,65.00000
+Maple Leaf,Tent,50.00000
+Maple Leaf,Camper/RV,50.00000
+Mathews Beach,House,87.00000
+Mathews Beach,Apartment,74.00000
+Meadowbrook,House,70.00000
+Meadowbrook,Cabin,68.00000
+Minor,Loft,267.50000
+Minor,Condominium,150.00000
+Minor,Townhouse,117.50000
+Minor,House,108.50000
+Minor,Apartment,99.00000
+Minor,Bungalow,70.00000
+Minor,Cabin,54.00000
+Montlake,Treehouse,200.00000
+Montlake,Apartment,125.00000
+Montlake,House,115.00000
+Mount Baker,Camper/RV,99.00000
+Mount Baker,Apartment,95.00000
+Mount Baker,Bed & Breakfast,82.00000
+Mount Baker,House,80.00000
+North Admiral,Condominium,297.00000
+North Admiral,Townhouse,225.00000
+North Admiral,Chalet,135.00000
+North Admiral,Bed & Breakfast,129.00000
+North Admiral,House,103.00000
+North Admiral,Yurt,100.00000
+North Admiral,Apartment,99.00000
+North Admiral,Cabin,90.00000
+North Beach/Blue Ridge,House,108.00000
+North Beach/Blue Ridge,Bungalow,95.00000
+North Beach/Blue Ridge,Apartment,75.00000
+North Beacon Hill,Townhouse,117.50000
+North Beacon Hill,Cabin,100.00000
+North Beacon Hill,Loft,99.50000
+North Beacon Hill,Bungalow,99.00000
+North Beacon Hill,Bed & Breakfast,89.00000
+North Beacon Hill,House,75.00000
+North Beacon Hill,Apartment,72.50000
+North Beacon Hill,Tent,65.00000
+North College Park,House,99.00000
+North Delridge,Apartment,75.00000
+North Delridge,Townhouse,70.00000
+North Delridge,House,69.00000
+Olympic Hills,Apartment,95.00000
+Olympic Hills,House,56.00000
+Phinney Ridge,Bed & Breakfast,207.00000
+Phinney Ridge,Other,150.00000
+Phinney Ridge,House,107.50000
+Phinney Ridge,Apartment,95.00000
+Phinney Ridge,Condominium,50.00000
+Pike Market,Apartment,92.00000
+Pike Place Market,Apartment,158.50000
+Pike Place Market,Condominium,99.00000
+Pike Place Market,Dorm,39.50000
+Pinehurst,Apartment,144.50000
+Pinehurst,House,125.00000
+Pioneer Square,Apartment,149.00000
+Pioneer Square,Loft,149.00000
+Pioneer Square,Condominium,97.50000
+Portage Bay,Cabin,300.00000
+Portage Bay,House,257.00000
+Portage Bay,Condominium,150.00000
+Portage Bay,Apartment,99.00000
+Queen Anne,Loft,219.00000
+Queen Anne,Bed & Breakfast,209.00000
+Queen Anne,House,175.00000
+Queen Anne,Bungalow,156.00000
+Queen Anne,Apartment,112.00000
+Queen Anne,Condominium,107.50000
+Queen Anne,Townhouse,100.00000
+Queen Anne,Boat,85.00000
+Queen Anne,Cabin,60.00000
+Queen Anne,Camper/RV,52.50000
+Rainier Beach,Other,118.00000
+Rainier Beach,House,60.00000
+Ravenna,Apartment,110.00000
+Ravenna,House,75.00000
+Ravenna,Other,63.50000
+Ravenna,Bed & Breakfast,63.00000
+Riverview,Apartment,77.50000
+Riverview,House,65.00000
+Roosevelt,House,105.00000
+Roosevelt,Bed & Breakfast,90.00000
+Roosevelt,Apartment,90.00000
+Roosevelt,Townhouse,49.00000
+Roxhill,House,60.00000
+Seaview,House,122.50000
+Seaview,Apartment,76.00000
+Seward Park,Apartment,75.00000
+Seward Park,House,75.00000
+Seward Park,Bed & Breakfast,42.00000
+South Beacon Hill,House,117.50000
+South Delridge,Bed & Breakfast,99.00000
+South Delridge,House,95.00000
+South Delridge,Apartment,48.00000
+South Lake Union,Apartment,130.00000
+South Lake Union,Condominium,103.50000
+South Lake Union,Loft,95.00000
+South Park,House,102.50000
+Stevens,Bed & Breakfast,152.00000
+Stevens,Bungalow,140.00000
+Stevens,Townhouse,120.00000
+Stevens,Apartment,117.50000
+Stevens,House,92.50000
+Stevens,Other,50.00000
+The Junction,Townhouse,139.50000
+The Junction,Apartment,109.00000
+The Junction,House,95.00000
+University District,Condominium,120.00000
+University District,Apartment,88.50000
+University District,House,62.00000
+University District,Townhouse,49.00000
+University District,Other,45.00000
+Victory Heights,House,66.50000
+Victory Heights,Apartment,60.00000
+View Ridge,House,175.00000
+View Ridge,Apartment,122.50000
+View Ridge,Loft,49.00000
+Wallingford,Apartment,104.00000
+Wallingford,House,100.00000
+Wallingford,Loft,87.50000
+Wedgewood,Loft,100.00000
+Wedgewood,Townhouse,98.00000
+Wedgewood,House,75.00000
+Wedgewood,Apartment,65.00000
+Westlake,Boat,462.50000
+Westlake,Condominium,250.00000
+Westlake,House,130.00000
+Westlake,Apartment,85.00000
+Windermere,Apartment,145.00000
+Windermere,House,123.50000
+Yesler Terrace,House,179.00000
+Yesler Terrace,Apartment,140.00000
+Yesler Terrace,Condominium,125.00000
+,Boat,464.50000
+,Cabin,125.00000
+,Loft,115.50000
+,Camper/RV,110.00000
+,Condominium,107.00000
+,Apartment,100.00000
+,Townhouse,96.00000
+,House,95.00000
+,Bungalow,75.00000
+,Other,75.00000
+,Treehouse,55.00000
+,Bed & Breakfast,37.50000
